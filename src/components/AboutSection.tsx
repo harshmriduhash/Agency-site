@@ -89,7 +89,7 @@ export const AboutSection = () => {
             </div>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            Why Choose Imperium Dev?
+            Why Choose Imperium Dev??
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We're not just developers – we're digital transformation partners committed to your success
